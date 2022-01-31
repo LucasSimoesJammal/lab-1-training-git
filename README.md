@@ -38,3 +38,4 @@ print(s)
 |talbes|are|coll|
 |------|---|----|
 |col 3 is|right-aligned|1600|
+
